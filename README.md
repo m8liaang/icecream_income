@@ -1,8 +1,16 @@
 # Is Income Associated with Ice Cream?
 
-Pandas, NumPy, Matplotlib, Seaborn
+Still working on this project!
 
 An exploratory data analysis project on the relationship between ice cream consumption (United States Department of Agriculture) and median household income (U.S. Census Bureau) in the United States coded in Google Colab. Visualization was done using matplotlib, seaborn, and NumPy. Structuring and cleaning of the data was done using Pandas, along with calculating linear regression.
+
+## Toolkit/Libraries
+Pandas, NumPy, Matplotlib, Seaborn
+
+## Data Set Descriptions
+
+## Objectives
+
 
 ## Data Source
 Ice cream (regular, low-fat, and non-fat; domestic consumption) data from United States Department of Agriculture:
@@ -11,3 +19,5 @@ Ice cream (regular, low-fat, and non-fat; domestic consumption) data from United
 
 Median household income (bachelor's degree and above) data from United States Census Bureau:
 - [https://www.census.gov/data/tables/2025/demo/income-poverty/p60-286.html](https://www2.census.gov/programs-surveys/demo/tables/p60/286/inc_ed.xlsx) (xlsl)
+
+  
